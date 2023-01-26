@@ -1,0 +1,15 @@
+.body_backgorund 
+{
+    background-image:url(mañanitas3.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    margin-top:15px;
+   border-width: 10px;
+   background-color: chartreuse;
+   border-style: double;
+   border-color: blueviolet;
+}
+
